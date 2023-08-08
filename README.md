@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, I'm Divyanshi 👋
 
-<!--
-**divi-259/divi-259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer by profession and I like to code and learn new things in the Software world. You can find more about me and my work on my [portfolio](https://divi-259.github.io). 
 
-Here are some ideas to get you started:
+[![GitHub Profile](https://img.shields.io/badge/Check%20out%20my-Portfolio-brightgreen)](https://divi-259.github.io)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
