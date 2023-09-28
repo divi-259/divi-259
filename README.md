@@ -43,7 +43,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### More on : 
-<a href="https://divi-259.github.io">
-        <img src="https://img.shields.io/badge/Divyanshi-Portfolio-orange" alt="Github profile"/>
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divi-259&show_icons=true&locale=en&layout=compact" alt="divi-259" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=divi-259&show_icons=true&locale=en" alt="divi-259" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=divi-259&" alt="divi-259" /></p>
+
