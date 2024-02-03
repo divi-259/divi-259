@@ -14,7 +14,6 @@
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=divi-259&label=Profile%20views&color=0e75b6&style=flat" alt="Divyanshi" />
   <span style="margin-left: 100px;"></span>                       
-    <a href="https://divi-259.github.io">
         <img src="https://img.shields.io/badge/Check%20out%20my-Portfolio-brightgreen" alt="Github profile"/>
     </a>
 </div>
