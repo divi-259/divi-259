@@ -3,7 +3,6 @@
 <!--Introduction -->
 <p align="center">
     <h4>I'm a Software Engineer by profession and I like to code and learn new things in the Software world.</h4>
-    <h3><pre align="center">You can find more about me and my work on my <a href="https://divi-259.github.io">Portfolio</a></pre></h3>
 </p>
 <p align="center">
 <img src="https://github.com/divi-259/divi-259/blob/main/home.png" width="50%" align="center"> 
@@ -21,8 +20,6 @@
 </div>
 <br>
 
-- 🤔 I’m looking for help with - Getting an interview call for Software Engineer role around Seattle Metropolitan area
-- 🔭 I’m currently working on my Portfolio page - https://divi-259.github.io/ 
 - 🌱 I’m currently learning Chatgpt prompts, Graphs, SOLID Principles and Basic Low Level Design of Systems
 - 👯 I’m looking to collaborate on Leetcode Partnership for solving Medium to Hard level Questions
 - 💬 Ask me about Leetcode, DSA, Cloud Computing
