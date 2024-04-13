@@ -19,9 +19,7 @@
 </div>
 <br>
 
-- 🌱 I’m currently learning Chatgpt prompts, Graphs, SOLID Principles and Basic Low Level Design of Systems
-- 👯 I’m looking to collaborate on Leetcode Partnership for solving Medium to Hard level Questions
-- 💬 Ask me about Leetcode, DSA, Cloud Computing
+- 🌱 I’m currently learning LLD and HLD
 - 📫 How to reach me: Email - divyanshi259dixit@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love real and meaningful conversations about life and coding
